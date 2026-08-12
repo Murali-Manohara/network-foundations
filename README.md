@@ -1,7 +1,6 @@
 # Network Foundations – Understanding Modern Network Communication
 
-**Graded Project**
-**Name:** _______________________
+**Name:** Murali Manohara
 **Role:** AI Engineer Trainee
 
 ## Introduction
