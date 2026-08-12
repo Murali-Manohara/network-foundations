@@ -1,6 +1,7 @@
 # Network Foundations – Understanding Modern Network Communication
 
 **Name:** Murali Manohara
+
 **Role:** AI Engineer Trainee
 
 ## Introduction
